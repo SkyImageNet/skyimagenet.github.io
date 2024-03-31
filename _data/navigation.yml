@@ -18,9 +18,7 @@ main:
     url: /data/
   - title: "Tool"
     url: /tool/
-  - title: "Benchmark"
-    url: /benchmark/
+  - title: "Demo"
+    url: /demo/
   - title: "Leaderboard"
     url: /leaderboard/
-  - title: "Publications"
-    url: /publications/
