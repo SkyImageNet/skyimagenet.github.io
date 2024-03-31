@@ -11,10 +11,10 @@ header:
     #- label: "Download"
       #url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "A large-scale standardized sky image dataset for solar energy forecasting and cloud modeling (put a teaser image here, e.g., a gif showing an array of sky images from different datasets)"
-intro:
-  - title: The SkyImageNet dataset
-    excerpt: SkyImageNet is a large-scale standardized dataset for solar energy forecasting and cloud modeling. It contains xxx sky images and atmospheric measurments ...
+excerpt: "A large-scale standardized sky image dataset for solar energy forecasting and atmospheric sciences research (put a teaser image here, e.g., a gif showing an array of sky images from different datasets)"
+#intro:
+  #- title: The SkyImageNet dataset
+    #excerpt: SkyImageNet is a large-scale standardized dataset for solar energy forecasting and cloud modeling. It contains xxx sky images and atmospheric measurments ...
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -34,7 +34,7 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
     title: "Tool"
-    excerpt: "The skyimglib python library streamline the access and utilization of the SkyImageNet data."
+    excerpt: "The *skyimglib* python library streamlines the access and utilization of the SkyImageNet data."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -76,3 +76,10 @@ feature_row:
 
 <!--**The SkyImageNet dataset**  
 #SkyImageNet is a large-scale standardized dataset for solar energy forecasting and cloud modeling. It contains xxx sky images and atmospheric measurments ...-->
+
+## News and updates
+We can put announcements and updates here
+
+## Research team
+
+## Publications
