@@ -11,7 +11,7 @@ header:
     #- label: "Download"
       #url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "A large-scale standardized sky image dataset for solar energy forecasting and atmospheric sciences research (put a teaser image here, e.g., a gif showing an array of sky images from different datasets)"
+excerpt: "A large-scale sky image database for solar energy meteorology research (put a teaser image here, e.g., a gif showing an array of sky images from different datasets)"
 #intro:
   #- title: The SkyImageNet dataset
     #excerpt: SkyImageNet is a large-scale standardized dataset for solar energy forecasting and cloud modeling. It contains xxx sky images and atmospheric measurments ...
