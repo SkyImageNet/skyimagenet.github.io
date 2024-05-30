@@ -20,5 +20,5 @@ main:
     url: /tool/
   - title: "Demo"
     url: /demo/
-  - title: "Leaderboard"
-    url: /leaderboard/
+  #- title: "Leaderboard"
+    #url: /leaderboard/
