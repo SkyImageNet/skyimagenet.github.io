@@ -12,12 +12,14 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /
-  - title: "Overview"
-    url: /overview/
+  #- title: "Overview"
+    #url: /overview/
   - title: "Data"
     url: /data/
   - title: "Tool"
     url: /tool/
+  - title: "Model"
+    url: /model/
   - title: "Demo"
     url: /demo/
   #- title: "Leaderboard"
